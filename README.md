@@ -17,3 +17,12 @@ set enviorment variable on window: path "yoursystempath/poppler/poppler-24./Libr
 =>SECRET_KEY='500d55fe41591ae537e9bb228455240ba69e88e3cf90210373d6ff4fffeed39f'
 =>JWT_SECRET_KEY='463746400b27f7e11ed2473be3669fe1b9f4d171b024aa6c3c2d7c40c7d7ce52'
 =>poppler_path='F:\\Softwear\\poppler\\poppler-24.08.0\\Library\\bin' 
+
+# api usage
+=> auth/signup -> give credential 'username' 'email' and 'password'
+=> auth/login -> give 'email' and 'password'
+=> copy 'jwt token' and past on Authorization button with 'Bearer <token>'
+=> receipt/upload -> upload the file-> remember file id
+=> receipt/process -> give file id and process
+=> receipt/receipts -> to retrive all files data
+=> receipt/receipts{file_id}=> to retrive specific file data. 
