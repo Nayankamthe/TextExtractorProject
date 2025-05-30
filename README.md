@@ -6,6 +6,7 @@ run=>  env\Scripts\activate
 run=> set FLASK_APP=api\
 run=> pip install requirements.txt
 run=> pip freeze >requirements.txt
+run=> python runserver.py
 
 # add poppler to system 
 download => https://github.com/oschwartz10612/poppler-windows/releases/download/v24.08.0-0/Release-24.08.0-0.zip
