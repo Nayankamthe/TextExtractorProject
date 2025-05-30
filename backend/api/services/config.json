@@ -1,0 +1,10 @@
+{
+    "total_amount": [
+      "Total Due", "Total", "GRAND TOTAL", "To Stay Total", "cash",
+      "Payment AMOUNT", "AMOUNT", "AMOUNT $", "TOTAL BILLED TO SUITE", 
+      "TOTAL DEPS/PYMTS/CRDTS", "Total USD"
+    ],
+    "purchase_date": [
+      "Departure", "DATE"
+    ]
+  }
