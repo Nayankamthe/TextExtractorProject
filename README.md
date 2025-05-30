@@ -12,10 +12,8 @@ download => https://github.com/oschwartz10612/poppler-windows/releases/download/
 set enviorment variable on window: path "yoursystempath/poppler/poppler-24./Library/bin eg(poppler_path='F:\\Softwear\\poppler\\poppler-24.08.0\\Library\\bin')
 # set .env file
 
-<!-- 
-FLASK_APP=api/
-DEBUG=True
-SECRET_KEY='500d55fe41591ae537e9bb228455240ba69e88e3cf90210373d6ff4fffeed39f'
-JWT_SECRET_KEY='463746400b27f7e11ed2473be3669fe1b9f4d171b024aa6c3c2d7c40c7d7ce52'
-poppler_path='F:\\Softwear\\poppler\\poppler-24.08.0\\Library\\bin' 
--->
+=>FLASK_APP=api/
+=>DEBUG=True
+=>SECRET_KEY='500d55fe41591ae537e9bb228455240ba69e88e3cf90210373d6ff4fffeed39f'
+=>JWT_SECRET_KEY='463746400b27f7e11ed2473be3669fe1b9f4d171b024aa6c3c2d7c40c7d7ce52'
+=>poppler_path='F:\\Softwear\\poppler\\poppler-24.08.0\\Library\\bin' 
